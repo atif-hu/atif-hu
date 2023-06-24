@@ -1,8 +1,7 @@
-![logo](https://github.com/atif-hu/atif-hu/blob/main/Atif%20Hussain.png)
 <h1 align="center">Hi 👋, I'm Atif Hussain</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 
-<img img="right" alt="coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/atif-hu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/atif-hu/" height="30" width="40" /></a>
