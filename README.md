@@ -1,4 +1,4 @@
-![logo](https://github.com/atif-hu/atif-hu/blob/main/Atif%20Hussain.jpg)
+![logo](https://github.com/atif-hu/atif-hu/blob/main/Atif%20Hussain.png)
 <h1 align="center">Hi 👋, I'm Atif Hussain</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 
