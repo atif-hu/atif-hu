@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **atifhussain28@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1SJXeG3-cuwcKgaBsi1yrPVoS0gdMHIJK/view?usp=sharing](https://drive.google.com/file/d/1SJXeG3-cuwcKgaBsi1yrPVoS0gdMHIJK/view?usp=sharing)
+- 📄 Know about my experiences https://drive.google.com/file/d/1qi5Gc2Sol79YQHaKBaJG39gE1DAyq98O/view?usp=drive_link
 
 
 <h3 align="left">Languages and Tools:</h3>
