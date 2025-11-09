@@ -9,8 +9,8 @@
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atif-hu&label=Profile%20views&color=0e75b6&style=flat" alt="atif-hu" /> </p>
-
-- 🔭 I’m currently studying **Msc in Advanced Computer Science** at **Northumbria University, UK**
+- 🪄 I am currently working with Sensecloud as a **Full Stack Engineer**
+- 🔭 I’ve studied **MSc in Advanced Computer Science** at **Northumbria University, UK**
   
 - 🔭 I’ve worked at **Cognizant, Addnectar Solutions**
 
