@@ -16,9 +16,9 @@
   
 - 🔭 I’ve worked at **Cognizant, Addnectar Solutions**
 
-- 🌱 I’m currently learning **Software Engineering, System Design and Advanced Computer Science**
+- 🌱 I’ve expertise in **Software Engineering, System Design, AI Agents and Advanced Computer Science**
 
-- 💬 Ask me about **python, flask, DSA, AI, ML**
+- 💬 Ask me about **python, fastAPI, Django, flask, DSA, AI, ML, RAG, next.js, Typescript**
 
 - 📫 How to reach me **atifhussain28@gmail.com**
 
