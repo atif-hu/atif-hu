@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atif-hu&label=Profile%20views&color=0e75b6&style=flat" alt="atif-hu" /> </p>
 
-- 🪄 I am currently working with Sensecloud as a **Full Stack Engineer**
+- 🪄 I am currently working with Version1 as a **Python Developer**
 
 - 🔭 I’ve studied **MSc in Advanced Computer Science** at **Northumbria University, UK**
   
